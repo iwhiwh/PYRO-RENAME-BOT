@@ -19,7 +19,7 @@
         },
         "FORCE_SUB": {
             "description": "Your force sub channel user name without [@] ",
-            "value": "",
+            "value": "The_Happy_Hour_Hindi",
             "required": false 
         },
         "BOT_TOKEN": {
